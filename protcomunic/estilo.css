@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: rgb(35, 20, 116);
+    color: white;
+}
+
+header, ul, li{
+    height: 70px;
+    color: rgb(89, 144, 192);
+    list-style-type: none;
+    text-decoration: none;
+    display: flex;
+    padding-left: 20px;
+    padding-top: 10px;
+   
+}
+
+a{
+    color: rgb(143, 202, 253);
+    margin-top: 25px;
+    margin-left: 20px;
+    text-decoration: wavy;
+}
+
+img{
+    margin-left: 220px;
+    margin-top: 100px;
+}
+
+p{
+margin: 30px;
+}
+
+h1{
+   margin: 40px;
+}
+
+.lihttp{
+    color: rgb(255, 255, 255);
+    list-style: disc;
+}
